@@ -1,3 +1,5 @@
+// https://sysdigcloud.com/hiding-linux-processes-for-fun-and-profit/
+
 #define _GNU_SOURCE
 
 #include <stdio.h>
